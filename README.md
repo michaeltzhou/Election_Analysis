@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election_Analysis# Election_Analysis
 
 ## Project Overview
 A Colorado Board of Elections Employee has given you the followings tasks to complete the election audit of a recent local congressional election.
@@ -28,5 +28,7 @@ The analysis of the election shows that:
   - Diana DeGette, who received 73.8% of the vote and 272892 number of votes.
 
 ## Challenge Overview
-
+The purpose of this challenge was to apply knowledge learned about Python to add further analysis to the election audit by tallying the voters by county and determining the county with the largest voter turnout. This was done through additional lines to the python code to count the votes by county.
 ## Challenge Summary
+-Denver county had the largest voter turnout at 306055 votes, which constituted 82.8% of the votes counted
+Something to note is that when printing the county votes, there was a line break between each county in the terminal. If it makes a significant difference in deliverables score, the code could probably be amended to include the line break when writing for each file but not when printing to the terminal, as it automatically generates a line break. 
